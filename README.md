@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marchelrs, I'm 22 years old from Medan, Indonesia
+- 👋 Hi, I’m @Marchelrs, I'm 23 years old from Medan, Indonesia
 - 👀 I’m interested in a lot of things, specially HTML, PHP, Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any IT company
